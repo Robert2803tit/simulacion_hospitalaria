@@ -22,7 +22,7 @@ Demostrar la aplicación y diferencias entre los paradigmas de programación:
 
 ---
 
-## 🛠 Tecnologías y Librerías
+##  Tecnologías y Librerías
 
 - Python 3.10+
 - `asyncio`
@@ -34,7 +34,7 @@ Demostrar la aplicación y diferencias entre los paradigmas de programación:
 
 ---
 
-## 🖥 Ejecución del Proyecto
+##  Ejecución del Proyecto
 
 1. Clona el repositorio:
     ```bash
